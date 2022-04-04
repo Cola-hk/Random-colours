@@ -7,7 +7,6 @@
 body{
     background-color: #ffa200;
 }
-
 header{
     text-align: center;
     background-color: white;
@@ -17,21 +16,19 @@ header{
     padding:5px;
     font-weight: bold;
 }
-
 .container {
     font-weight: bold;
     text-align: center;
     font-size: 350%;
-    margin-top:230px;
-    margin-bottom: 130px;
-    margin-left: 190px;
-    margin-right: 190px;
+    margin-top:28vh;
+    margin-bottom: 18vh;
+    margin-left: 15vw;
+    margin-right: 15vw;
     background-color: #242424;
     border-radius: 20px;
     padding:10px;
     box-shadow: 0 7px 17px rgba(0, 0, 0, 0.2);
 }
-
 #text{
     color:white;
     user-select: none;
@@ -42,7 +39,6 @@ header{
 ::selection {
     background: #3b3b3b;
 }
-
 button {
     padding: 15px 25px;
     border: unset;
